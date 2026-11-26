@@ -20,7 +20,7 @@ Ausgewählte Journeys werden als Abfolge von Versorgungsschritten, Ereignissen, 
 
 Die Teilnehmenden stellen die ausgewählten Journey-Skizzen vor und ergänzen sie in Kleingruppen. Für definierte, diskrete Schritte wird betrachtet, wann eine Encounter-Instanz angelegt wird.
 
-Im Informationsmodell werden insbesondere `.class` und `type`-Kontaktebene berücksichtigt. `type`-Kontaktart und weitere Elemente können bei Bedarf einbezogen werden. Die Frage „Wie sieht die Encounter-Instanz als Modell aus?“ ist nicht Teil des Arbeitsauftrags auf der entsprechenden Folie.
+Im Informationsmodell werden insbesondere `.class` und `type`-Kontaktebene berücksichtigt. `type`-Kontaktart und weitere Elemente können bei Bedarf einbezogen werden.
 
 Bei der weiteren Betrachtung werden Zuordnungen zu Einrichtungskontakt, Abteilungskontakt oder Versorgungsstellenkontakt geprüft. Standort und Organisation werden mitbetrachtet; Diagnose und Prozedur werden einbezogen, wenn sie für den jeweiligen Schritt relevant sind.
 
