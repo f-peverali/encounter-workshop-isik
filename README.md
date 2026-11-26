@@ -37,7 +37,7 @@ Im Repository werden die erarbeiteten Versorgungsszenarien und Journey-Skizzen s
 - fehlende Informationen und Unsicherheiten
 - mögliche Modellierungsimplikationen
 
-Der Ablageort und gegebenenfalls benötigte Links werden ergänzt, sobald sie feststehen: **[Repository-Link / Ablagehinweise ergänzen]**.
+Die zentrale Gesamtdokumentation erfolgt in [output.md](output.md). Ergänzende Unterlagen und Arbeitsmaterialien werden im Ordner [content/](content/) abgelegt. Jede Teilnehmergruppe dokumentiert ihre Beiträge im jeweils eigenen Ordner ([Teilnehmergruppe-01](Teilnehmergruppe-01/README.md), [Teilnehmergruppe-02](Teilnehmergruppe-02/README.md), [Teilnehmergruppe-03](Teilnehmergruppe-03/README.md), [Teilnehmergruppe-04](Teilnehmergruppe-04/README.md), [Teilnehmergruppe-05](Teilnehmergruppe-05/README.md), [Teilnehmergruppe-06](Teilnehmergruppe-06/README.md), [Teilnehmergruppe-07](Teilnehmergruppe-07/README.md), [Teilnehmergruppe-08](Teilnehmergruppe-08/README.md), [Teilnehmergruppe-09](Teilnehmergruppe-09/README.md), [Teilnehmergruppe-10](Teilnehmergruppe-10/README.md)).
 
 ## Clustering der Szenarien
 
@@ -54,6 +54,5 @@ Im Workshop wird keine Spezifikationsentscheidung und keine unmittelbare Änderu
 Folgende Angaben sind in den verfügbaren Informationen nicht abschließend festgelegt und werden bei Bedarf ergänzt:
 
 - konkreter Termin und Ort
-- Repository- und Dokumentationslinks
 - Namen oder Zuordnung der Teilnehmenden
 - Zuständigkeiten für die weitere Bearbeitung
