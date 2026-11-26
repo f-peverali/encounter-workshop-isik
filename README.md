@@ -4,7 +4,7 @@
 
 In diesem Workshop betrachten wir Versorgungssituationen als Patient Journeys und untersuchen, wie die darin vorkommenden Kontakte und Encounter-Instanzen fachlich beschrieben und im Informationsmodell abgebildet werden können.
 
-Der Workshop baut auf dem Zielbild für das Encounter-/Fallmodell 2027 sowie auf relevanten Ergebnissen vorausgegangener Arbeitsgruppen auf. Der Fokus liegt auf den Inhalten, die für die gemeinsame Arbeit an den Journeys und die anschließende Betrachtung des Informationsmodells benötigt werden.
+Der Workshop baut auf dem [Zielbild für das Encounter-/Fallmodell 2027](https://github.com/gematik/spec-ISiK-Basismodul/blob/main-stufe-6/Material/Basis/Zielbild-Encounter-Fallmodell-2027.md) sowie auf relevanten Ergebnissen vorausgegangener Arbeitsgruppen auf. Der Fokus liegt auf den Inhalten, die für die gemeinsame Arbeit an den Journeys und die anschließende Betrachtung des Informationsmodells benötigt werden.
 
 Die konkreten Workshop-Termine und -Rahmenbedingungen sind den jeweils bereitgestellten Unterlagen zu entnehmen.
 
